@@ -6,4 +6,8 @@ Ans. Initializing a repository means creating a repository to track all files in
 
 Ans. Stating area contains those files which are added to git but not committed. It allows us to add individual files for commit.
 
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+Ans. We can add modified files to staging area before they are actually committed.
+
  
