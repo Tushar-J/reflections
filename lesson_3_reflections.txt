@@ -1,0 +1,3 @@
+1. When would you want to use a remote repository rather than keeping all your work local?
+
+Ans. When we want to store our repository over cloud remotely and we want others to access our repository from remote location.
