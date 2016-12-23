@@ -10,4 +10,21 @@ Ans. Stating area contains those files which are added to git but not committed.
 
 Ans. We can add modified files to staging area before they are actually committed.
 
- 
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Ans. Branches helps to keep different behaviour of application in a seperate logical sequence in git. 
+
+5. How do the diagrams help you visualize the branch structure?
+
+Ans. Very clearly.
+
+6. 	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Ans. Once changes are confirmed, branch can be merged to the master branch which is an official version of code.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Ans. Pros. of git-
+Directly merges branches having code updates.
+
+Cons. Results in conflict if same code is changed.
